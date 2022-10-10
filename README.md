@@ -4,9 +4,9 @@
 ### Github State
 
 
-![Zhangkai's GitHub stats](https://github-readme-stats.vercel.app/api?eezkni=anuraghazra&count_private=true)
+![Zhangkai's GitHub stats](https://github-readme-stats.vercel.app/api?username=eezkni&show_icons=true&theme=radical)
 
-![Zhangkai's GitHub stats](https://github-readme-stats.vercel.app/api?eezkni=anuraghazra&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eezkni&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
